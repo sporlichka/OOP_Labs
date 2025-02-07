@@ -7,11 +7,28 @@ public class ParenMatcher {
     private char[] curLine;
 
     public boolean processLine(String line) {
-        // Your code here
-        return true;
+        char[] curLine = line.toCharArray();
+        stack.clear(); // Clear the stack before processing a new line
+
+        for (char c : curLine) {
+            switch (c) {
+                case '(':
+                    stack.push(c);
+                    break;
+                case ')':
+                    if (stack.isEmpty()) {
+                        return false; // Closing parenthesis without a matching opening one
+                    }
+                    stack.pop();
+                    break;
+            }
+        }
+        return stack.isEmpty();
     }
 
-    public void processArray(String[] lines) {
+
+
+        public void processArray(String[] lines) {
         int count = 0;
         for (String line : lines) {
             if (this.processLine(line)) {

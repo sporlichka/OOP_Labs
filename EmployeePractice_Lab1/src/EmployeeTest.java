@@ -4,5 +4,6 @@ public class EmployeeTest {
         employee_1.getInfo();
         employee_1.set_inf(101,"Jane Smith", "012-34-4567", 120345.27);
         employee_1.getInfo();
+        System.out.println(employee_1.name);
     }
 }
