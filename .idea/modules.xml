@@ -5,7 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/EmployeePractice_Lab1/EmployeePractice.iml" filepath="$PROJECT_DIR$/EmployeePractice_Lab1/EmployeePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-5/lab-5.iml" filepath="$PROJECT_DIR$/lab-5/lab-5.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
     </modules>
   </component>
 </project>
