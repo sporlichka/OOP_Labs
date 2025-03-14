@@ -5,11 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/EmployeePractice_Lab1/EmployeePractice.iml" filepath="$PROJECT_DIR$/EmployeePractice_Lab1/EmployeePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OOP.iml" filepath="$PROJECT_DIR$/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab-5/lab-5.iml" filepath="$PROJECT_DIR$/lab-5/lab-5.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6-enumerations/lab6-enumerations.iml" filepath="$PROJECT_DIR$/lab6-enumerations/lab6-enumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6-nested-classes/lab6-nested-classes.iml" filepath="$PROJECT_DIR$/lab6-nested-classes/lab6-nested-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6-singleton_2Task/lab6-singleton_2Task.iml" filepath="$PROJECT_DIR$/lab6-singleton_2Task/lab6-singleton_2Task.iml" />
     </modules>
   </component>
 </project>

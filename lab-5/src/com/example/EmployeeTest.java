@@ -22,7 +22,7 @@ public class EmployeeTest {
 
     public static void printEmployee(Employee emp){
         System.out.println();
-        System.out.println("Employee type:  " + emp.getClass().getSimpleName());
+        System.out.println("Employee type:  " + emp.getClass().getSimplelName());
         System.out.println(emp);
     }
 
